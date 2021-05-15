@@ -11,6 +11,6 @@ Data used to create the code is in 'income_evaluation.csv
 Notes:
 To create this project, I used a pre-production version of Tensorflow, meant for the new M1 chip. Therefore not all of my packages were compatible. I was not able work entirely in one environment, so if you see execution counts, on the left side of the notebook, drop significantly, this was do to me changing environments.
 
-The following files were used by me to save data while changing environments, and are not required on successful passthrough: 'clf_scores', 'test_set', 'clf_scores_complete', 'validation_set', 'training_set'
+The following files were used by me to save data while changing environments, and are not required on successful passthrough: 'clf_scores.csv', 'test_set.csv', 'clf_scores_complete.csv', 'validation_set.csv', 'training_set.csv'
 
 This notebook contains only my work. I have not copied any of the code, as all of it was written by me from scratch. Enjoy!
