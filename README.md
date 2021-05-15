@@ -1,6 +1,8 @@
 # Income_Classification_Analysis
 Task:
-Determining wether or not someone is predicted to make over $50,000 annually, or not
+Determining wether or not someone is predicted to make over $50,000 annually, or not.
+
+To see code, run analysis_clf.ipynb
 
 In this project, we will analyze how different variables can affect the salary of an individual, and to reduce the feature set accordingly. We will then build Binary classifiers of increasing levels of complexity, ending with classifiers inputing into a custom Neural Net. The main goals are to: create an understanding of the circumstances in one's life that will correlate with a higher probability for him or her, of receiving a greater than $50,000 annual salary, and to analyze how various models perform in terms of precision, recall, accuracy, F1 score, ROC, and the AUC score.
 
